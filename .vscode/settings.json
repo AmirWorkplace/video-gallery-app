@@ -1,0 +1,5 @@
+{
+  "workbench.commandPalette.preserveInput": false,
+  "workbench.commandPalette.experimental.suggestCommands": false,
+  "search.experimental.notebookSearch": false
+}
